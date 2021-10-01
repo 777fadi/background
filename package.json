@@ -1,0 +1,19 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/777fadi/background.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/777fadi/background/issues"
+  },
+  "homepage": "https://github.com/777fadi/background#readme"
+}
